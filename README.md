@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![waving hand](https://tenor.com/view/elsalla-gif-19369358)
 
 <!--
 **srrathi/srrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
