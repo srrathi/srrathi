@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 An Open source Web Devloper.
 - 💖 Linux Lover.
 
-![Sitaram's github stats](https://github-readme-stats.vercel.app/api?username=srrathi&layout=compact&theme=dark)
+![Sitaram's github stats](https://github-readme-stats.vercel.app/api?username=srrathi&layout=compact&theme=dark&show_icons=true&count_private=true)
 ![Sitaram's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srrathi&layout=compact&count_private=true&theme=dark)
 <!--
 - 🌱 I’m currently learning Node.js and Webrtc
