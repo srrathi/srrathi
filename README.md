@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on React.js and Django
+- 🔭 I’m currently working on React.js and Node.js
 - 👯 An Open source Web Devloper.
 - 💖 Linux Lover.
 
