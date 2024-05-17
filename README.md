@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on React.js and Node.js
-- 👯 An Open source Web Devloper.
+- 👯 An Open source Fullstack Devloper.
 - 💖 Linux Lover.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username) 
