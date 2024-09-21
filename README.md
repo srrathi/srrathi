@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 - 👯 I'm Sitaram Rathi, a Fullstack Devloper.
 - 🔭 I’m currently working in Nextjs.
-- ⚒️ I'm experienced in working with Nodejs, Reactjs, Golang, Firebase, GCP, AWS, MySQL, MongoDB and many more.
+- ⚒️ I'm experienced in working with Nodejs, Reactjs, Golang, Firebase, GCP, AWS, MySQL, MongoDB and still learning.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username) 
 <br/>
