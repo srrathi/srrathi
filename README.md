@@ -4,12 +4,10 @@
 
 Here are some ideas to get you started:
 -->
-- 👯 I'm Sitaram Rathi, a Fullstack Devloper.
-- 🔭 I’m currently working in Nextjs.
+- ⚡ I'm Sitaram Rathi, a Fullstack Devloper.
+- 🔭 I’m currently working in Nextjs, Nodejs and Golang.
 - ⚒️ I'm experienced in working with Nodejs, Reactjs, Golang, Firebase, GCP, AWS, MySQL, MongoDB and still learning.
 
-![](https://komarev.com/ghpvc/?username=your-github-username) 
-<br/>
 ![Sitaram's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srrathi&layout=compact&count_private=true&theme=dark)
 <br/>
 ![Sitaram's github stats](https://github-readme-stats.vercel.app/api?username=srrathi&layout=compact&theme=dark&show_icons=true&count_private=true)
@@ -53,3 +51,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/srrathi/count.svg" alt="visitor count"/>
+</p>
